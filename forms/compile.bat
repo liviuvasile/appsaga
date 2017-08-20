@@ -3,7 +3,7 @@ frmcmp userid=saga/Ora911122@saga module=useradmin.fmb
 frmcmp userid=saga/Ora911122@saga module=skeleton.fmb
 frmcmp userid=saga/Ora911122@saga module=password.fmb
 frmcmp userid=saga/Ora911122@saga module=autor.fmb
-frmcmp userid=saga/Ora911122@saga module=fileupload.pll module_type=library
+#frmcmp userid=saga/Ora911122@saga module=fileupload.pll module_type=library
 frmcmp userid=saga/Ora911122@saga module=editura.fmb
 frmcmp userid=saga/Ora911122@saga module=produs.fmb
 frmcmp userid=saga/Ora911122@saga module=intrari.fmb
@@ -11,6 +11,8 @@ frmcmp userid=saga/Ora911122@saga module=raport_intrari.fmb
 frmcmp userid=saga/Ora911122@saga module=raport_stoc_g1.fmb
 frmcmp userid=saga/Ora911122@saga module=raport_stoc_g4.fmb
 frmcmp userid=saga/Ora911122@saga module=raport_stoc_g5.fmb
+frmcmp userid=saga/Ora911122@saga module=raport_stoc_g2.fmb
+frmcmp userid=saga/Ora911122@saga module=raport_stoc_g3.fmb
 frmcmp userid=saga/Ora911122@saga module=raport_stoc.fmb
 frmcmp userid=saga/Ora911122@saga module=parametri.fmb
 frmcmp userid=saga/Ora911122@saga module=vanzare1.fmb
@@ -67,14 +69,7 @@ frmcmp userid=saga/Ora911122@saga module=geninventar.fmb
 frmcmp userid=saga/Ora911122@saga module=introinventar.fmb
 frmcmp userid=saga/Ora911122@saga module=d394.fmb
 frmcmp userid=saga/Ora911122@saga module=promotii.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_adauga.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_comenzi.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_stoc.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_urgente.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_vanzari.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_z.fmb
-frmcmp userid=saga/Ora911122@saga module=ll_arhiva_facturi.fmb
-
-
-frmcmp userid=saga/Ora911122@saga module=genbdate.fmb
-frmcmp userid=saga/Ora911122@saga module=investigare.fmb
+frmcmp userid=saga/Ora911122@saga module=vanzare23.fmb
+frmcmp userid=saga/Ora911122@saga module=comenzig2.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar2.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar3.fmb
