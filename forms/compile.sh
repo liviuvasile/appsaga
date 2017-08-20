@@ -11,7 +11,7 @@ CLASSPATH=$CLASSPATH:$HOME/appsaga/java
 export TNS_ADMIN=/home/oracle/infra/network/admin
 export TERM=xterm
 #export DISPLAY="10.0.0.5:0.0"
-export DISPLAY=":0.0"
+export DISPLAY=":1.0"
 #rm /home/oracle/appsaga/forms/*.fmx
 #rm /home/oracle/appsaga/forms/*.plx
 #frmcmp userid=saga/Ora911122@saga module=appsaga.fmb
@@ -21,24 +21,26 @@ export DISPLAY=":0.0"
 #frmcmp userid=saga/Ora911122@saga module=autor.fmb
 #frmcmp userid=saga/Ora911122@saga module=fileupload.pll module_type=library
 #frmcmp userid=saga/Ora911122@saga module=editura.fmb
-#frmcmp userid=saga/Ora911122@saga module=produs.fmb
+frmcmp userid=saga/Ora911122@saga module=produs.fmb
 #frmcmp userid=saga/Ora911122@saga module=intrari.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_intrari.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_stoc_g1.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_stoc_g4.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_stoc_g5.fmb
+#frmcmp userid=saga/Ora911122@saga module=raport_stoc_g2.fmb
+#frmcmp userid=saga/Ora911122@saga module=raport_stoc_g3.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_stoc.fmb
 #frmcmp userid=saga/Ora911122@saga module=parametri.fmb
-#frmcmp userid=saga/Ora911122@saga module=vanzare1.fmb
-#frmcmp userid=saga/Ora911122@saga module=vanzare4.fmb
-#frmcmp userid=saga/Ora911122@saga module=vanzare5.fmb
+frmcmp userid=saga/Ora911122@saga module=vanzare1.fmb
+frmcmp userid=saga/Ora911122@saga module=vanzare4.fmb
+frmcmp userid=saga/Ora911122@saga module=vanzare5.fmb
 #frmcmp userid=saga/Ora911122@saga module=factura.fmb
 #frmcmp userid=saga/Ora911122@saga module=siteusers.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_retur.fmb
-frmcmp userid=saga/Ora911122@saga module=furnizor.fmb
+#frmcmp userid=saga/Ora911122@saga module=furnizor.fmb
 #frmcmp userid=saga/Ora911122@saga module=retur.fmb
-frmcmp userid=saga/Ora911122@saga module=lista_intrari.fmb
-frmcmp userid=saga/Ora911122@saga module=lista_retururi.fmb
+#frmcmp userid=saga/Ora911122@saga module=lista_intrari.fmb
+#frmcmp userid=saga/Ora911122@saga module=lista_retururi.fmb
 #frmcmp userid=saga/Ora911122@saga module=etichete.fmb
 #frmcmp userid=saga/Ora911122@saga module=fisa_magazie.fmb
 #frmcmp userid=saga/Ora911122@saga module=fisa_furnizor.fmb
@@ -65,12 +67,12 @@ frmcmp userid=saga/Ora911122@saga module=lista_retururi.fmb
 #frmcmp userid=saga/Ora911122@saga module=incadrari.fmb
 #frmcmp userid=saga/Ora911122@saga module=carduri.fmb
 #frmcmp userid=saga/Ora911122@saga module=newsletter.fmb
-#frmcmp userid=saga/Ora911122@saga module=platainplus.fmb
-#frmcmp userid=saga/Ora911122@saga module=stoccp.fmb
-#frmcmp userid=saga/Ora911122@saga module=inventar1.fmb
-#frmcmp userid=saga/Ora911122@saga module=arhivainventar.fmb
+frmcmp userid=saga/Ora911122@saga module=platainplus.fmb
+frmcmp userid=saga/Ora911122@saga module=stoccp.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar1.fmb
+frmcmp userid=saga/Ora911122@saga module=arhivainventar.fmb
 #frmcmp userid=saga/Ora911122@saga module=inventar4.fmb
-#frmcmp userid=saga/Ora911122@saga module=inventar5.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar5.fmb
 #frmcmp userid=saga/Ora911122@saga module=anunturi.fmb
 #frmcmp userid=saga/Ora911122@saga module=raport_reduceri.fmb
 #frmcmp userid=saga/Ora911122@saga module=curs_valutar.fmb
@@ -85,8 +87,8 @@ frmcmp userid=saga/Ora911122@saga module=lista_retururi.fmb
 #frmcmp userid=saga/Ora911122@saga module=recenzie.fmb
 #frmcmp userid=saga/Ora911122@saga module=info.fmb
 #frmcmp userid=saga/Ora911122@saga module=etichete2.fmb
-#frmcmp userid=saga/Ora911122@saga module=geninventar.fmb
-#frmcmp userid=saga/Ora911122@saga module=introinventar.fmb
+frmcmp userid=saga/Ora911122@saga module=geninventar.fmb
+frmcmp userid=saga/Ora911122@saga module=introinventar.fmb
 #frmcmp userid=saga/Ora911122@saga module=d394.fmb
 #frmcmp userid=saga/Ora911122@saga module=promotii.fmb
 #frmcmp userid=saga/Ora911122@saga module=ll_adauga.fmb
@@ -96,3 +98,7 @@ frmcmp userid=saga/Ora911122@saga module=lista_retururi.fmb
 #frmcmp userid=saga/Ora911122@saga module=ll_vanzari.fmb
 #frmcmp userid=saga/Ora911122@saga module=ll_z.fmb
 #frmcmp userid=saga/Ora911122@saga module=ll_arhiva_facturi.fmb
+frmcmp userid=saga/Ora911122@saga module=vanzare23.fmb
+#frmcmp userid=saga/Ora911122@saga module=comenzig2.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar2.fmb
+frmcmp userid=saga/Ora911122@saga module=inventar3.fmb
