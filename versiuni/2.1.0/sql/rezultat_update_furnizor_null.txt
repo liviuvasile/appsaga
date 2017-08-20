@@ -1,0 +1,751 @@
+Codul 1 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 1 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 22000 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 2786991 CARTEA ROMANEASCA
+Codul 88600 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 88600 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 113800 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113800 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 163800 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163800 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 173700 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 213200 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R1554870 CORESI S.R.L.
+Codul 213200 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1554870 CORESI S.R.L.
+Codul 21773 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4221241 FUND. ROMANIA DE MAINE-ED
+Codul 40922 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R5989966 EDITREX S&A
+Codul 48847 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 48847 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 48850 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 48850 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 49478 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 49478 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 54086 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 15511232 OLIMP SRL
+Codul 54086 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 15511232 OLIMP SRL
+Codul 54469 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R35807 MOREL CONSULTIMPEX
+Codul 54613 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 54613 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 55248 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 55248 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 55512 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R12073154 ANTET XX PRESS
+Codul 55512 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12073154 ANTET XX PRESS
+Codul 56982 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4544994 Z DIFUZARE SRL
+Codul 60459 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 60459 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 60471 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 60471 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 60472 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 60472 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 61071 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 61071 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 61073 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 61073 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 63112 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 2600141 LUCMAN S.R.L.
+Codul 63112 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 2600141 LUCMAN S.R.L.
+Codul 65397 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 65397 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 67022 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12280354 POLIROM S.A.
+Codul 67022 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.
+Codul 69370 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 69370 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 69693 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R5989966 EDITREX S&A
+Codul 71379 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 71379 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 71381 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 71381 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 72089 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 72089 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 72243 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 15726657 INSTITUTUL CULTURAL ROMAN
+Codul 72243 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 15726657 INSTITUTUL CULTURAL ROMAN
+Codul 74021 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 74021 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 74071 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 74071 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 74078 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 74078 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 75652 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 75652 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 75939 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R5022144 PRO EDITURA SI TIPOGRAFIE
+Codul 75944 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 75944 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 76818 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6243017 DOINA 2000 S.R.L.
+Codul 76818 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6243017 DOINA 2000 S.R.L.
+Codul 76822 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6243017 DOINA 2000 S.R.L.
+Codul 76822 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6243017 DOINA 2000 S.R.L.
+Codul 80490 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12280354 POLIROM S.A.
+Codul 80490 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.
+Codul 83371 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 83371 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 85830 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 337783 MEDICALA S.A.
+Codul 85830 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 337783 MEDICALA S.A.
+Codul 85934 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 87809 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 87809 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 87812 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6384865 STAND 2001
+Codul 87812 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6384865 STAND 2001
+Codul 88351 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4544994 Z DIFUZARE SRL
+Codul 88975 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 88975 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 88976 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 89446 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 89770 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 89770 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 93338 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R14798230 DEPOZITUL DE CARTE 
+Codul 93338 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R14798230 DEPOZITUL DE CARTE 
+Codul 93410 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 94897 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 5110713 AS.FOSTILOR PRESEDINTI
+Codul 95884 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 95884 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 97545 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 97545 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 98087 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 98087 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 99270 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 15726657 INSTITUTUL CULTURAL ROMAN
+Codul 99270 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 15726657 INSTITUTUL CULTURAL ROMAN
+Codul 99358 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R14798230 DEPOZITUL DE CARTE 
+Codul 99358 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R14798230 DEPOZITUL DE CARTE 
+Codul 100864 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12280354 POLIROM S.A.
+Codul 100864 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.
+Codul 101217 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 15330317 KULLUSYS
+Codul 101217 a fost modificat pe 1 linii in tabelul CP_INVENTAR cu furnizorul 15330317 KULLUSYS
+Codul 102545 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 5110713 AS.FOSTILOR PRESEDINTI
+Codul 104794 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4544994 Z DIFUZARE SRL
+Codul 104794 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4544994 Z DIFUZARE SRL
+Codul 104951 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4429723 ALFA SI OMEGA IMPEX S.R.L
+Codul 104951 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4429723 ALFA SI OMEGA IMPEX S.R.L
+Codul 105886 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 105886 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 106158 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 106158 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 107731 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 107731 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 108272 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4429723 ALFA SI OMEGA IMPEX S.R.L
+Codul 108272 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4429723 ALFA SI OMEGA IMPEX S.R.L
+Codul 109612 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 109612 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 109613 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 109613 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 109614 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 109614 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 110541 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 110623 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 110623 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R363367 Humanitas SA
+Codul 110643 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 110672 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 111085 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R3397100 BLASSCO 2000 PROD COMEXIM
+Codul 111085 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R3397100 BLASSCO 2000 PROD COMEXIM
+Codul 111290 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R3397100 BLASSCO 2000 PROD COMEXIM
+Codul 111290 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R3397100 BLASSCO 2000 PROD COMEXIM
+Codul 111369 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 111369 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 111370 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 111370 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 113648 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 113648 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 113792 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113792 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113793 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113793 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113794 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113794 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113795 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113795 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113796 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113796 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113797 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113797 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113801 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 113801 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 114647 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 116485 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 116581 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R5022144 PRO EDITURA SI TIPOGRAFIE
+Codul 116581 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R5022144 PRO EDITURA SI TIPOGRAFIE
+Codul 117792 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 117792 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 117924 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R4899270 CODECS S.A.
+Codul 117924 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4899270 CODECS S.A.
+Codul 118004 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R1554870 CORESI S.R.L.
+Codul 118004 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1554870 CORESI S.R.L.
+Codul 118317 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 118317 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 118448 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 119185 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul XXXX30 ARIADNA '98  S.R.L.
+Codul 119185 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX30 ARIADNA '98  S.R.L.
+Codul 120311 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 121315 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 121315 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 125667 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6690511 CORINT SERV. S.R.L.
+Codul 125667 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6690511 CORINT SERV. S.R.L.
+Codul 125714 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 125714 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 125779 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 125779 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 126720 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 5110713 AS.FOSTILOR PRESEDINTI
+Codul 127901 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 127901 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 129095 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 129095 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 131574 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R16016194 EXIGENT SRL
+Codul 131574 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R16016194 EXIGENT SRL
+Codul 132523 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO11678026 Meteor Press SRL
+Codul 134602 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 134602 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 134636 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO22001228 Regis Print SRL
+Codul 134636 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO22001228 Regis Print SRL
+Codul 135840 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4544994 Z DIFUZARE SRL
+Codul 136890 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 137048 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R1589983 DIDACTICA SI PEDAGOGICA
+Codul 137048 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1589983 DIDACTICA SI PEDAGOGICA
+Codul 137192 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 137894 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 3742330 VESTALA S.R.L.
+Codul 137894 a fost modificat pe 1 linii in tabelul CP_INVENTAR cu furnizorul 3742330 VESTALA S.R.L.
+Codul 138938 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 3943938 V & I Integral SRL
+Codul 138938 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 3943938 V & I Integral SRL
+Codul 139191 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R19073739 Totalibra SRL
+Codul 139191 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R19073739 Totalibra SRL
+Codul 141074 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 141719 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 142034 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 142774 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 354067 PADIS SRL
+Codul 143286 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 15726657 INSTITUTUL CULTURAL ROMAN
+Codul 146218 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul XXXX30 ARIADNA '98  S.R.L.
+Codul 146218 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX30 ARIADNA '98  S.R.L.
+Codul 148488 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R19073739 Totalibra SRL
+Codul 148488 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R19073739 Totalibra SRL
+Codul 148489 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R19073739 Totalibra SRL
+Codul 148489 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R19073739 Totalibra SRL
+Codul 148490 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R19073739 Totalibra SRL
+Codul 148490 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R19073739 Totalibra SRL
+Codul 148491 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R19073739 Totalibra SRL
+Codul 148491 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R19073739 Totalibra SRL
+Codul 148989 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 149138 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 149138 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 149139 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 149139 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 150909 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 17333298 Lux Sublima SRL
+Codul 150909 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 17333298 Lux Sublima SRL
+Codul 153447 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 153950 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 155119 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 155119 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R363367 Humanitas SA
+Codul 155509 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 155509 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 155846 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 14390442 SAECULUM VIZUAL
+Codul 156214 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15980301 Prut SRL
+Codul 156214 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15980301 Prut SRL
+Codul 156218 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15980301 Prut SRL
+Codul 156218 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15980301 Prut SRL
+Codul 156522 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 156835 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 156835 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 156925 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 156925 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 158330 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 158330 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 158397 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R1563118 TIBO SRL
+Codul 158397 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1563118 TIBO SRL
+Codul 158954 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 6299964 HERALD GRUP SRL
+Codul 158954 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 158955 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6299964 HERALD GRUP SRL
+Codul 158955 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 159723 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R12073154 ANTET XX PRESS
+Codul 159723 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12073154 ANTET XX PRESS
+Codul 161534 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R1563118 TIBO SRL
+Codul 161534 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1563118 TIBO SRL
+Codul 161742 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 10423377 TEHNICA S.A.
+Codul 161742 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 10423377 TEHNICA S.A.
+Codul 162271 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 17792266 Marketing Manag.Europe
+Codul 162271 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 17792266 Marketing Manag.Europe
+Codul 162952 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 162952 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 162953 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 162953 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 163776 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163776 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163788 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163788 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163791 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163791 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163792 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163792 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163796 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163796 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163798 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163798 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163799 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163799 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163809 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163809 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163810 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163810 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 163927 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 164729 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 164729 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 165274 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R17304560 Ascendent SRL
+Codul 165639 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 165639 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 167377 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 167377 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 169036 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 169689 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 4505502 UNIVERSITATEA BUCURESTI
+Codul 169689 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4505502 UNIVERSITATEA BUCURESTI
+Codul 170163 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 9510194 Facultatea de comunicare
+Codul 170194 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 171367 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 171630 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO3088903 Sitech SRL
+Codul 172237 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 173705 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 173705 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 174173 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174173 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174174 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174174 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174198 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174198 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 174415 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 175359 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 175359 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 175867 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 176601 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 176601 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 176747 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176747 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176757 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176757 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176760 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176760 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176791 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176791 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176805 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176805 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 176935 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 9976160 FOR YOU SRL
+Codul 176935 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 9976160 FOR YOU SRL
+Codul 177555 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO15005197 On Edit SRL
+Codul 177926 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO25344964 Univers Enc Gold
+Codul 179287 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 179287 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 179997 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 179997 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 180369 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6503591 VERUS S.R.L.
+Codul 180856 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 180856 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 181193 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 3742330 VESTALA S.R.L.
+Codul 181193 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 3742330 VESTALA S.R.L.
+Codul 181210 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 181210 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 181220 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 181220 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 181382 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R16180145 Criterion Publishing
+Codul 181382 a fost modificat pe 1 linii in tabelul CP_INVENTAR cu furnizorul R16180145 Criterion Publishing
+Codul 182562 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO14292088 Editura Lider SRL
+Codul 182741 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 182741 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 182789 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul XXXX26 ZAMOLXE-UNIVERSITARA
+Codul 182789 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX26 ZAMOLXE-UNIVERSITARA
+Codul 183131 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 183131 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 183136 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 183136 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 183216 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO26281929 eurocart distribution srl
+Codul 183217 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO26281929 eurocart distribution srl
+Codul 183367 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 183367 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 184546 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R13695007 TEHNOPRES MEDIA GRUP
+Codul 184695 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 184695 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6598583 100+1 GRAMAR S.A.
+Codul 185329 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185329 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185330 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185330 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185331 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185331 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185332 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 185332 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 186298 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 186298 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 186625 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 186625 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187345 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R16824785 MULTICART COM SRL
+Codul 187956 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187956 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187964 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187964 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187965 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187965 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187970 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 187970 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 188934 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12073154 ANTET XX PRESS
+Codul 189134 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 14792687 SEMNE SRL
+Codul 189134 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 14792687 SEMNE SRL
+Codul 189192 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO7647455 Premier SRL
+Codul 189371 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 189371 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 189381 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 189381 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 189405 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 189405 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 190693 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 190693 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 190694 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 190694 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 191404 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R1563118 TIBO SRL
+Codul 191404 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1563118 TIBO SRL
+Codul 191717 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10942552 NOI MEDIA PRINT S.R.L.
+Codul 191717 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10942552 NOI MEDIA PRINT S.R.L.
+Codul 192364 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192364 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192370 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192370 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192371 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192371 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 192565 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6299964 HERALD GRUP SRL
+Codul 192565 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 192733 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO11209151 Uniscan Grup Educational SRL
+Codul 192864 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R5975081 Pe & Jordache SRL
+Codul 193431 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 193479 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 193479 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 193537 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 193632 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 193632 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 194444 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 5393638 SAECULUM I.O.  S.R.L.
+Codul 195776 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 195776 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 195993 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO12933259 Humanitas Fiction
+Codul 196496 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 196496 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 196708 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15564555 Grafoart SRL
+Codul 196708 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15564555 Grafoart SRL
+Codul 196708 a fost modificat pe 1 linii in tabelul CP_INVENTAR cu furnizorul R15564555 Grafoart SRL
+Codul 197239 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R13168520 BOOKLET SRL
+Codul 197299 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 197299 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 197408 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R1552682 ICAR S.R.L.
+Codul 197408 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1552682 ICAR S.R.L.
+Codul 197458 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18491512 SC WORLD MEDIAGRPH SRL
+Codul 197689 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13311815 Verba SRL
+Codul 198053 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R16824785 MULTICART COM SRL
+Codul 198077 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 198077 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 198118 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 198118 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 198187 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 198187 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 198212 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R16824785 MULTICART COM SRL
+Codul 198512 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 198512 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 198705 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 198705 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 199018 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6690511 CORINT SERV. S.R.L.
+Codul 199264 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 15911590 F.C.IDEEA EUROPEANA
+Codul 199703 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 200094 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO11209151 Uniscan Grup Educational SRL
+Codul 200246 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R16050161 CORINT JUNIOR S.R.L.
+Codul 200246 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R16050161 CORINT JUNIOR S.R.L.
+Codul 200562 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 200562 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 201271 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R6090320 TREI S.R.L.
+Codul 201271 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6090320 TREI S.R.L.
+Codul 201332 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18975270 Tempo Music Impex SRL
+Codul 201333 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18975270 Tempo Music Impex SRL
+Codul 201334 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18975270 Tempo Music Impex SRL
+Codul 202771 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 202796 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul XXXX26 ZAMOLXE-UNIVERSITARA
+Codul 202796 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX26 ZAMOLXE-UNIVERSITARA
+Codul 203490 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 3274175 NEMIRA&CO S.R.L.
+Codul 203498 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 3274175 NEMIRA&CO S.R.L.
+Codul 204051 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 204051 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 204058 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 204058 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 204217 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO4397850 Dharana Impex SRL
+Codul 204218 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO4397850 Dharana Impex SRL
+Codul 204283 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 204679 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 16081133 Akademos Art SRL
+Codul 204816 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 205133 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205133 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205134 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205134 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205137 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205137 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205138 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205138 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205140 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205140 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 205154 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO25810762 Icar Publishing SRL
+Codul 205211 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO16966801 Xposed Media SRL
+Codul 205211 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO16966801 Xposed Media SRL
+Codul 206245 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17649836 Farmamedia MB SRL
+Codul 206723 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul XXXX3 CAVALLIOTI S.R.L.
+Codul 206723 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX3 CAVALLIOTI S.R.L.
+Codul 206805 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206805 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206818 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206818 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206819 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206819 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206824 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 206824 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 207701 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 208136 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 208225 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 208225 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 208446 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 208446 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 209286 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12280354 POLIROM S.A.
+Codul 209286 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.
+Codul 210010 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R16050161 CORINT JUNIOR S.R.L.
+Codul 210010 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R16050161 CORINT JUNIOR S.R.L.
+Codul 210050 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 210117 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO25571576 Dinasty books Proeditura si Tipografie
+Codul 210117 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO25571576 Dinasty books Proeditura si Tipografie
+Codul 210629 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 210629 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 210746 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R10306075 ALL BECK S.A
+Codul 210746 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10306075 ALL BECK S.A
+Codul 211007 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6299964 HERALD GRUP SRL
+Codul 211007 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 211031 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 211031 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 211105 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211105 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211107 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211107 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211108 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211108 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211116 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211116 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211117 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211117 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211119 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211119 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211120 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211120 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211126 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 211126 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 212725 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 212725 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 212740 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 212740 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213039 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1557795 VREMEA
+Codul 213205 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R1554870 CORESI S.R.L.
+Codul 213205 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1554870 CORESI S.R.L.
+Codul 213351 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul RO23685701 Distributiile Unite SRL
+Codul 213351 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO23685701 Distributiile Unite SRL
+Codul 213624 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213624 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213632 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213632 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213640 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 213640 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 214047 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 214048 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R15511232 AGORA SRL
+Codul 214048 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R15511232 AGORA SRL
+Codul 214127 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R16016429 CERMAPRINT SRL
+Codul 214127 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R16016429 CERMAPRINT SRL
+Codul 214369 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 214369 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 215243 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 215563 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 6365790 ETITURA TEORA SRL
+Codul 215563 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6365790 ETITURA TEORA SRL
+Codul 216262 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 15411098 Humanitas Multimedia SRL
+Codul 216267 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 216267 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 216274 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 216274 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 216337 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 216337 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 216526 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 216526 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R363367 Humanitas SA
+Codul 216558 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 216558 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 216817 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 216817 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 216871 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6494981 PARALELA 45 S.R.L.
+Codul 216985 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12747779 LIBRA DIF SRL
+Codul 217053 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO15764200 Nicol Cart SRL
+Codul 217053 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO15764200 Nicol Cart SRL
+Codul 217074 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 217099 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO25810762 Icar Publishing SRL
+Codul 217099 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO25810762 Icar Publishing SRL
+Codul 217303 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 217303 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 217305 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 217305 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 217702 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 217702 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 218168 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R10942552 NOI MEDIA PRINT S.R.L.
+Codul 218168 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10942552 NOI MEDIA PRINT S.R.L.
+Codul 218252 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 218252 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R10752035 LITERA INTERNATIONAL SRL
+Codul 218843 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 218843 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 219048 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13311815 Verba SRL
+Codul 219158 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO20185833 Cab.Av.Doru Viorel Ursu
+Codul 219158 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO20185833 Cab.Av.Doru Viorel Ursu
+Codul 219204 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R5654642 LEDA EDITSERV S.R.L.
+Codul 219204 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R5654642 LEDA EDITSERV S.R.L.
+Codul 219388 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 219388 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 219701 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO16105305 Didactica publ house
+Codul 219701 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO16105305 Didactica publ house
+Codul 219747 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R6768190 ELION S.R.L.
+Codul 219747 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6768190 ELION S.R.L.
+Codul 220435 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO1801458 Nomina Group Expert SRL
+Codul 220435 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO1801458 Nomina Group Expert SRL
+Codul 220533 a fost modificat pe 3 linii in tabelul INVENTAR cu furnizorul 4357724 FUNDATIA MISC.GRAALULUI
+Codul 220533 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4357724 FUNDATIA MISC.GRAALULUI
+Codul 220606 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 220606 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 220707 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 220707 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1593100 EGMONT ROMANIA S.R.L.
+Codul 222026 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO16184465 Edit Com Morosan SRL
+Codul 222236 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R363367 Humanitas SA
+Codul 222236 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R363367 Humanitas SA
+Codul 222928 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 222928 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 222929 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 13965909 Grupul Editorial Art
+Codul 222929 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 223165 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 223165 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 224218 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 224218 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 224376 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 224376 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 224823 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 224823 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 225062 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R17304560 Ascendent SRL
+Codul 225062 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R17304560 Ascendent SRL
+Codul 225136 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R13811527 Universul juridic SRL
+Codul 225632 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R6768190 ELION S.R.L.
+Codul 225632 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6768190 ELION S.R.L.
+Codul 225635 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R6768190 ELION S.R.L.
+Codul 225635 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6768190 ELION S.R.L.
+Codul 225762 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4305849 Universitatea Babes Bolyai
+Codul 225913 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 225913 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 226220 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 226232 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 226232 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 227189 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 227189 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 227517 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 13026606 CARTEX 2000 SRL
+Codul 227517 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13026606 CARTEX 2000 SRL
+Codul 228021 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 228021 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 228124 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO29687035 Ecou Transilvan SRL
+Codul 228124 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO29687035 Ecou Transilvan SRL
+Codul 228360 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 228360 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 228453 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 228453 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 229629 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 11220303 Editura Marcela Penes
+Codul 229629 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 11220303 Editura Marcela Penes
+Codul 229671 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 230337 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230337 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230338 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230338 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230339 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230339 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 230459 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO14346218 Alpha Group SRL
+Codul 230728 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO11209151 Uniscan Grup Educational SRL
+Codul 230745 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 230746 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO4781184 Educational Center SRL
+Codul 230746 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO4781184 Educational Center SRL
+Codul 230747 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul RO4781184 Educational Center SRL
+Codul 230747 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO4781184 Educational Center SRL
+Codul 230933 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R17304560 Ascendent SRL
+Codul 231286 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 11220303 Editura Marcela Penes
+Codul 231286 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 11220303 Editura Marcela Penes
+Codul 231555 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 231555 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R4092252 NICULESCU S.R.L.
+Codul 232340 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO28114552 Rosetti International SRL
+Codul 232340 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO28114552 Rosetti International SRL
+Codul 232376 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO4781184 Educational Center SRL
+Codul 232549 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO4258780 Prior Media Group
+Codul 233397 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 233397 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 233906 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 233906 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 233969 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO29500438 Editura Poseidon Impex SRL
+Codul 234674 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul 6299964 HERALD GRUP SRL
+Codul 234674 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6299964 HERALD GRUP SRL
+Codul 235027 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 235027 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO24836896 Private Corporate Events SRL
+Codul 235551 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 235551 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 235575 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 235575 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 235582 a fost modificat pe 2 linii in tabelul INVENTAR cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 235582 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul XXXX52 PACO ED.SI TIPOGR.
+Codul 237753 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R8478702 BIC ALL DISTRIBUTIE S.R.L
+Codul 237818 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 16929749 Full Moon Media Vision
+Codul 237818 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 16929749 Full Moon Media Vision
+Codul 237978 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO4418619 Fiat Lux cu tva
+Codul 239223 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R1577539 ARAMIS PRINT SRL
+Codul 239223 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1577539 ARAMIS PRINT SRL
+Codul 240389 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 240389 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO18990288 Adevarul Holding
+Codul 240390 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 240390 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO18990288 Adevarul Holding
+Codul 240391 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 240391 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO18990288 Adevarul Holding
+Codul 240392 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO18990288 Adevarul Holding
+Codul 240392 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO18990288 Adevarul Holding
+Codul 240737 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R13811527 Universul juridic SRL
+Codul 240737 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R13811527 Universul juridic SRL
+Codul 241049 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 241132 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 241576 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R12280354 POLIROM S.A.
+Codul 241576 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.
+Codul 241608 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 4266677 I.N.S.T.
+Codul 241608 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4266677 I.N.S.T.
+Codul 241673 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 241673 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 242527 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO28114552 Rosetti International SRL
+Codul 242527 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO28114552 Rosetti International SRL
+Codul 242795 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 14940945 MARIST EDITURA SRL
+Codul 243236 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO26475186 Grup Editorial Litera
+Codul 243643 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 243643 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 244281 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul 1420925400288 Trandafir Traian
+Codul 244281 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 1420925400288 Trandafir Traian
+Codul 244303 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 244650 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R14759800 BRANDBUILDERS GRUP
+Codul 244650 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R14759800 BRANDBUILDERS GRUP
+Codul 244670 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO29687035 Ecou Transilvan SRL
+Codul 244670 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO29687035 Ecou Transilvan SRL
+Codul 245217 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO28114552 Rosetti International SRL
+Codul 245217 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO28114552 Rosetti International SRL
+Codul 245346 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R17081204 Tesu Company SRL
+Codul 245346 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R17081204 Tesu Company SRL
+Codul 245828 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO18469418 Editura Hamangiu Nou
+Codul 245862 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 245862 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6706278 NAUTILUS PRODIM SRL
+Codul 245983 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R13742966 Atlas Group Distr.SRL
+Codul 245983 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R13742966 Atlas Group Distr.SRL
+Codul 248448 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO23737428 Miron Agentie Carti SRL
+Codul 248448 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO23737428 Miron Agentie Carti SRL
+Codul 249273 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 249273 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17574083 Stand Ag.difuzare carte
+Codul 249304 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R6160434 CRIST 1 S.R.L.
+Codul 249989 a fost modificat pe 1 linii in tabelul INVENTAR cu furnizorul R13742966 Atlas Group Distr.SRL
+Codul 249989 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R13742966 Atlas Group Distr.SRL
+Codul 252850 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 8090009 SUPERGRAPH PRESTCOM SRL
+Codul 254786 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 11838631 Aula Magna SRL
+Codul 258048 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R5786996 Gama SRL
+Codul 259309 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 31980435 Corint Logistic SRL
+Codul 259610 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 28032290 Fundatia Sfintii inchisorilor
+Codul 260236 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 6841606 RAO GROUP DISTR.NOU
+Codul 262317 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R1366680 REV CARTE SRL
+Codul 263990 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO17753267 Adevar Divin SRL
+Codul 264434 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO5146113 Bookish
+Codul 266571 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R11348249 CURTEA VECHE PUBLISHING
+Codul 267444 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO23685701 Distributiile Unite SRL
+Codul 268187 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 31980435 Corint Logistic SRL
+Codul 269188 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul RO23685701 Distributiile Unite SRL
+Codul 269527 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 4266677 I.N.S.T.
+Codul 271031 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 30980607 Stanculea Dana Irina
+Codul 271456 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul 13965909 Grupul Editorial Art
+Codul 273902 a fost modificat pe 1 linii in tabelul PRODUS cu furnizorul R12280354 POLIROM S.A.

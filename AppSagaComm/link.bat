@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\vb98\LINK.EXE" /EDIT /SUBSYSTEM:CONSOLE C:\appsaga\AppSagaComm\AppSagaComm.exe

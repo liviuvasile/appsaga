@@ -1,0 +1,17 @@
+    
+    permission java.io.FilePermission "<<ALL FILES>>", "read";
+    permission java.io.FilePermission "<<ALL FILES>>", "execute";
+    permission java.io.FilePermission "c:\\appsaga\\com2a\\", "read,write,execute,delete";
+    permission java.io.FilePermission "c:\\appsaga\\com2a\\-", "read,write,execute,delete";
+
+    permission java.net.SocketPermission "*:80", "connect";
+    permission java.net.SocketPermission "89.45.95.6", "connect,accept";
+    permission java.net.SocketPermission "89.45.95.2", "connect,accept";
+    
+    -->2.1.0
+    permission java.util.PropertyPermission "hibernate.enable_specj_proprietary_syntax", "read";
+    permission java.util.PropertyPermission "*", "read";
+    permission net.jini.discovery.DiscoveryPermission "*";
+    
+    permission java.security.AllPermission;
+    --<2.1.0
