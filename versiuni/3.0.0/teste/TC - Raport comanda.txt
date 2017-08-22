@@ -2,7 +2,13 @@ Test 1:
 
 A) Raport "comanda" pentru o comanda in EUR
 
+    http://localhost:8889/reports/rwservlet?comanda&P_ID=1500297781&P_USERID=1
+
 B) Raport "comanda" pentru o comanda in USD
 
+    http://localhost:8889/reports/rwservlet?comanda&P_ID=1470068328&P_USERID=1
+    
 C) Raport "comanda" pentru o comanda fara istoric valutar
+
+    http://localhost:8889/reports/rwservlet?comanda&P_ID=1472716355&P_USERID=1
 

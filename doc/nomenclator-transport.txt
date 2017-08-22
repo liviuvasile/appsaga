@@ -1,0 +1,4 @@
+total_comanda.transport
+
+1 - POSTA
+2 - CURIER

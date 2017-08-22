@@ -1,0 +1,6 @@
+total_comanda.payment
+
+1 - RAMBURS
+2 - VIRAMENT
+3 - PAYPAL
+4 - CARD
