@@ -1,0 +1,8 @@
+Test 1:
+
+A) Raport "comanda" pentru o comanda in EUR
+
+B) Raport "comanda" pentru o comanda in USD
+
+C) Raport "comanda" pentru o comanda fara istoric valutar
+
