@@ -1,0 +1,66 @@
+CREATE OR REPLACE VIEW rpt_calcule_stoc AS
+WITH s_intrari AS
+(SELECT cod_saga
+          ,SUM(DECODE(retur, 0,NVL(cantitate,0),0)) intrari
+          ,SUM(DECODE(retur, 0,0, ABS(NVL(cantitate,0)))) retururi
+          ,SUM(DECODE(retur,0,ABS(NVL(iesiri,0)))) iesiri
+          ,SUM(DECODE(retur, 0,NVL(cantitate,0)-NVL(iesiri,0),0)) stoc_actual_gestiune
+          ,gestiune
+    FROM intrari
+     GROUP BY cod_saga,gestiune
+),
+s_npl AS
+(SELECT cod_saga
+      ,NVL(sum(cantitate),0) npl_achitat
+      ,gestiune
+  FROM npl
+ WHERE NVL(tip_plata,'ACHITAT') in ('LA VANZARE','VANZARE AVANS','VANZARE TERMEN', 'ACHITAT')
+ GROUP BY cod_saga,gestiune
+),
+s_site AS
+(SELECT cod_saga
+      ,gestiune
+      ,NVL(SUM(cantitate),0) in_tranzit
+ FROM comanda 
+WHERE stare in 
+        ('RCONFIRMATA'
+        ,'PCONFIRMATA'
+        ,'VCONFIRMATA'
+        ,'CCONFIRMATA'
+        ,'PTRIMISA'
+        ,'RTRIMISA'
+        ,'VTRIMISA'
+        ,'CTRIMISA'
+        ,'RACHITATA'
+        ,'VACHITATA'
+        ,'PACHITATA'
+        ,'CACHITATA'
+        )
+GROUP BY cod_saga, gestiune
+)
+SELECT produs.cod_saga
+     , produs.data_introducere
+     , produs.denumire
+     , s_intrari.intrari
+     , s_intrari.retururi
+     , s_intrari.iesiri
+     , s_intrari.stoc_actual_gestiune
+     , NVL(s_npl.npl_achitat,0) npl_achitat
+     , NVL(s_site.in_tranzit,0) in_tranzit
+     , produs.stoc stoc_actual_site
+     , (s_intrari.intrari - nvl(s_intrari.retururi,0) - nvl(s_npl.npl_achitat,0) - nvl(s_site.in_tranzit,0)) stoc_calculat_site
+  FROM produs
+      ,s_intrari
+      ,s_npl
+      ,s_site
+ WHERE produs.cod_saga > 150000
+   AND produs.isbn is not null
+   AND produs.cod_saga=s_intrari.cod_saga (+)
+   AND produs.cod_saga=s_npl.cod_saga (+)
+   AND produs.cod_saga=s_site.cod_saga (+)
+   AND produs.stoc <> (s_intrari.intrari - NVL(s_intrari.retururi,0) - NVL(s_npl.npl_achitat,0) - nvl(s_site.in_tranzit,0))
+  -- AND s_intrari.intrari IS NOT NULL
+/
+
+COMMENT ON TABLE rpt_calcule_stoc IS '3.0.3 03/11/2017 Recalculare stoc mai eleganta'
+/
